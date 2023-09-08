@@ -1,7 +1,7 @@
 
 
 import  Home from "./Components/Home/Home";
-import Homepage from "./Components/Home/Navbar/NewsGround/free.js"
+
 import './App.css';
 import {BrowserRouter,Route,Routes} from "react-router-dom";
 function App() {
