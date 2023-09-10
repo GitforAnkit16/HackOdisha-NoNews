@@ -1,0 +1,13 @@
+.nav{
+    display: flex;
+    background-color: rgb(246, 63, 63);
+    padding: 10px;
+    height: 80px;
+    width: 100%;
+ }
+ .nav h1{
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 10px;
+ }

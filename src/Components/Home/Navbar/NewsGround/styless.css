@@ -1,0 +1,141 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    display: flex;
+    flex-direction: column; 
+}
+.container {
+    width: 100%;
+    margin: 10px;
+    padding: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+
+
+.left-column {
+    flex: 1;
+    padding: 20px;
+}
+
+
+.topic-box {
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-sizing: border-box;
+    position: relative;
+    width: 400px; 
+    margin: 1%; 
+    float: left; 
+    height: 400px;
+    margin-left: 70px;
+}
+
+.topic-box img {
+    max-width: 100%;
+    height: auto;
+}
+
+.topic-box a{
+    text-decoration: none;
+    color: black;
+    font-size: 1.4rem;
+}
+
+
+
+
+#check{
+    position: relative;
+}
+ 
+ header {
+    text-align: center;
+    background-color: #090b0c;
+    color: #fff;
+    padding: 10px;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.pros-cons{
+    display: flex;
+    width: 100%;
+}
+
+.pros, .cons {
+    flex: 1;
+    padding: 10px;
+    border: 1px solid green;
+    border-radius: 5px;
+}
+.cons{
+    border: 1px solid red;
+}
+
+.pros {
+    margin-right: 10px; 
+}
+
+.pros h2{
+    color: green;
+}
+
+.cons h2{
+    color: red;
+}
+
+.pros h2, .cons h2 {
+    text-align: center;
+}
+.pros div{
+    border: #090b0c;
+}
+
+.pros,.cons {
+    display: flex;
+    flex-direction: column;
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+}
+
+.box div{
+    border: 2px solid green;
+    height: fit-content;
+    margin: 10px;
+    font-size: 1.5rem;
+    padding: 20px;
+
+}
+
+.boxe div{
+    border: 2px solid red;
+    height: fit-content;
+    margin: 20px;
+    font-size: 1.5rem;
+    padding: 20px;
+}
+
+li {
+    margin: 5px 0;
+    display: flex;
+    align-items: center;
+}
+
+
+
+

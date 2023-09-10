@@ -1,0 +1,27 @@
+
+.top button{
+    cursor: pointer;
+    background: none;
+    border: none;
+    height: 50px;
+    width: 100px;
+    color: black;
+    font-size: 1.5em;
+    padding: 10px;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.top{
+    position: relative;
+    display: inline-flex;
+    align-items: flex-start;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.topNews{
+    margin-left: 440px;
+
+}
