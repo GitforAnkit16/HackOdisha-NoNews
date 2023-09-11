@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './styless.css'; // Import your CSS file
+import './styless.css'; 
 import topic1Image from './shutterstock_568689847.0.webp';
 import topic2Image from './download.jpg';
 import topic3Image from './download crypto.jpg';
