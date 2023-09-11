@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HackOdisha-NoNews/static/css/main.e291070b.css",
+    "main.js": "/HackOdisha-NoNews/static/js/main.bcf7dbb2.js",
+    "static/media/shutterstock_568689847.0.webp": "/HackOdisha-NoNews/static/media/shutterstock_568689847.0.799190361a2715bd7499.webp",
+    "static/media/download crypto.jpg": "/HackOdisha-NoNews/static/media/download crypto.7ffac1a683884c81c00b.jpg",
+    "index.html": "/HackOdisha-NoNews/index.html",
+    "main.e291070b.css.map": "/HackOdisha-NoNews/static/css/main.e291070b.css.map",
+    "main.bcf7dbb2.js.map": "/HackOdisha-NoNews/static/js/main.bcf7dbb2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e291070b.css",
+    "static/js/main.bcf7dbb2.js"
+  ]
+}
